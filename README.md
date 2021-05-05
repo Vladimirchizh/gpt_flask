@@ -1,6 +1,10 @@
 ### Using flask for Generative transformers
 
     git clone https://github.com/Vladimirchizh/gpt_flask.git
+    
+Go to the model directory if you aren't there already
+
+    cd gpt_flask
 
 Launching docker
 
